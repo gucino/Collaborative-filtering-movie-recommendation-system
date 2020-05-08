@@ -1,3 +1,6 @@
+This code was developed for Lab 2: Movie Recommendations courseork
+as part of CM50266 Applied Data Science module university of Bath
+
 The code is seperated into 2 parts
 1. identify highest rated film of each genre
 2. top K movie recommendation 
