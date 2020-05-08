@@ -1,5 +1,7 @@
-This code was developed for Lab 2: Movie Recommendations courseork
+*******************************************************************
+This code was developed for Lab 2: Movie Recommendations coursework
 as part of CM50266 Applied Data Science module university of Bath
+*******************************************************************
 
 The code is seperated into 2 parts
 1. identify highest rated film of each genre
