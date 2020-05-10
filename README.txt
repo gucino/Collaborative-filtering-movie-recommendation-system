@@ -3,6 +3,12 @@ This code was developed for Lab 2: Movie Recommendations coursework
 as part of CM50266 Applied Data Science module university of Bath
 *******************************************************************
 
+#detail of dataset
+The Movielens dataset contains 10000 one-to-five-scale rating along with 
+timestamp for 1682 movies and 943 users. 
+Each movie is associated with genre where one movie can have more than one genre.
+Each user comes with ages, sex, and occupation.
+
 The code is seperated into 2 parts
 1. identify highest rated film of each genre
 2. top K movie recommendation 
